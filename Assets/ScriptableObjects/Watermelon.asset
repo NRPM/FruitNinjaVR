@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998963ecb72d3ba48a925410c117902e, type: 3}
+  m_Name: Watermelon
+  m_EditorClassIdentifier: 
+  wholeFruit: {fileID: 2296585025880150958, guid: 571e1ba211777bb41bedb3ef0405ae71, type: 3}
+  cutFruit: {fileID: 8245177480518818476, guid: 4a7cdd8674ef3a34cb72cada3e7c6c17, type: 3}
+  fruitName: Watermelon

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998963ecb72d3ba48a925410c117902e, type: 3}
+  m_Name: Coconut
+  m_EditorClassIdentifier: 
+  wholeFruit: {fileID: 6752289695427775204, guid: e6402bdc9773f6e49b44ca9f3188f2d2, type: 3}
+  cutFruit: {fileID: 4769098892640122491, guid: 7624e0d7e826a344abc82056c42130d5, type: 3}
+  fruitName: Coconut

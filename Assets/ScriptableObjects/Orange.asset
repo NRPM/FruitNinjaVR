@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998963ecb72d3ba48a925410c117902e, type: 3}
+  m_Name: Orange
+  m_EditorClassIdentifier: 
+  wholeFruit: {fileID: 4029827565627460818, guid: d891a39b3d8ea0e4183eeccf5c8b00cb, type: 3}
+  cutFruit: {fileID: 5876712159624463231, guid: abb170cf1a6174c49aa6f4b2115488ea, type: 3}
+  fruitName: Orange

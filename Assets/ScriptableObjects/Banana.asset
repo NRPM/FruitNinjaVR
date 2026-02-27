@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998963ecb72d3ba48a925410c117902e, type: 3}
+  m_Name: Banana
+  m_EditorClassIdentifier: 
+  wholeFruit: {fileID: 6420493795274717992, guid: b4e2f09dacaa90f4ab1b8db24977e4d5, type: 3}
+  cutFruit: {fileID: 2206836459018797752, guid: a6db6ee5d42f3994c80f1b7f21a4afdc, type: 3}
+  fruitName: Banana
